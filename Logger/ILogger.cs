@@ -12,7 +12,7 @@ namespace Logger
         /// <summary>
         /// Write the log message
         /// </summary>
-        /// <param name="logCategory">The log category, could be message, warning or error</param>
+        /// <param name="logCategory">The log category, could be a message, a warning or an error</param>
         /// <param name="message">The message to log</param>
         void LogMessage(LogCategory logCategory, string message);
     }
