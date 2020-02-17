@@ -8,6 +8,7 @@ namespace Logger.Enums
 {
     public enum LogCategory : int
     {
+        Ninguno = 0,
         Message = 1,
         Warning = 2,
         Error = 3
