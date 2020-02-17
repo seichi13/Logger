@@ -16,7 +16,6 @@ namespace Logger
         {
             _loggers = new List<ILogger>();
             _logCategories = new List<LogCategory>();
-
         }
 
         /// <summary>
@@ -39,9 +38,7 @@ namespace Logger
                 {
                     logger.LogMessage(logCategory, message);
                 }
-
             }
-
         }
 
         public void AddLogger(ILogger logger)
@@ -84,6 +81,5 @@ namespace Logger
         {
             this._logCategories.Remove(logCategory);
         }
-
     }
 }
