@@ -14,7 +14,7 @@ namespace Logger
             logger.AddLogger(new Logger.Loggers.ConsoleLogger());
             logger.AddLogger(new Logger.Loggers.FileLogger());
             logger.AddLogCategory(Enums.LogCategory.Error);
-            logger.LogMessage(Enums.LogCategory.Error, "Test");
+            logger.LogMessage(Enums.LogCategory.Error, "Test01");
         }
     }
 }
