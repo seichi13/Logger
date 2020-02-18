@@ -1,19 +1,38 @@
-# Título claro y descriptivo 
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-> _Agregar aqui el enlace al ticket Jira con la descripción más detallada del bug._
+---
 
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## :clipboard: Detalles Adicionales
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-- **Comportamiento Actual**
-  - Agrega una descripción lo más detallada posible
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-- **Comportamiento Esperado**
-  - Agrega una descripción lo más detallada posible
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-- **Pasos para reproducir el incidente**
-    Agrega una descripción lo más detallada posible
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## :clipboard: ScreenShots
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-> _Agregar aqui máximo 2 screenshots que muestren el incidente o solución._
+**Additional context**
+Add any other context about the problem here.
