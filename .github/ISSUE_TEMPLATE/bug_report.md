@@ -8,10 +8,10 @@
 - **Comportamiento Actual**
   - Agrega una descripción lo más detallada posible
 
-- **Comportamiento Esperado**...
+- **Comportamiento Esperado**
   - Agrega una descripción lo más detallada posible
 
-  - ***Pasos para reproducir el incidente***
+- **Pasos para reproducir el incidente**
     Agrega una descripción lo más detallada posible
 
 ## :clipboard: ScreenShots
