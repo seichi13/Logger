@@ -12,6 +12,5 @@ namespace Logger.Enums
         Message = 1,
         Warning = 2,
         Error = 3
-        
     }
 }
