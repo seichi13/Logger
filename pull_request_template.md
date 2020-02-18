@@ -8,6 +8,7 @@ Este PR implementa los siguientes cambios:
 _(Por favor marca el que es aplicable)_
 
 * [ ] :sparkles: Nuevo Requerimiento (Un requerimiento que agrega funcionalidad pero no cambia ningun flujo).
+* [ ] :bug: Fix (desarrollo que soluciona una incidencia reportada en una funcionalidad). 
 * [ ] :boom: Modificación (requerimiento que puede causar cambio en funcionalidad existente).
 
 ## :clipboard: Detalles Adicionales
