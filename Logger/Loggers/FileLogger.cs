@@ -10,11 +10,9 @@ namespace Logger.Loggers
 {
     public class FileLogger:ILogger
     {
-
         public void LogMessage(Enums.LogCategory logCategory, string message)
         {
             string fileName = ConfigurationManager.AppSettings["LogFileDirectory"] +"LogFile" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
-            
             try
             {
                 using(StreamWriter file = new StreamWriter(fileName,true)){
